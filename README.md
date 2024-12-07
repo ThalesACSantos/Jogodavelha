@@ -25,3 +25,15 @@ Para executar este jogo, você precisará ter o Python e o Pygame instalados.
 * Abra o terminal e execute o seguinte comando:
   ```bash
   pip install pygame
+
+**Instalando o Pyinstaller:**
+* Abra o terminal e execute o seguinte comando:
+  ```bash
+  pip install pyinstaller
+
+## Gerando um arquivo único com Pyinstaller:
+* Após instalar o Pyinstaller, para gerar um arquivo único (executável), já com a logo, faça o seguinte: 
+* Abra o terminal e execute o seguinte comando:
+  pyinstaller --onefile Jogo_da_velha.py --icon="Jogo_da_velha".ico
+
+  
