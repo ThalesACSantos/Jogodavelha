@@ -1,5 +1,7 @@
 # Jogo da Velha em Python
 
+<img src="Jogo_da_velha.ico" alt="logo" />
+
 ## Descrição
 Este é um jogo da velha clássico implementado em Python utilizando a biblioteca Pygame. O jogo permite que dois jogadores se enfrentem em um tabuleiro 3x3.
 
